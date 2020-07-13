@@ -1,21 +1,25 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: DESIGNING SOLUTIONS | DELIVERING RESULTS
+image: /img/spaceman.png
+heading: We design and develop technology products using emerging technologies
+subheading: We design and develop technology products using emerging technologies
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: "Why SUPERHOW? "
+  description: SUPER HOW is a visionary research and development (R&D) company
+    committed to harnessing the power of blockchain for the advancement of
+    society with next-generation solutions.  SUPER HOW has grown to become
+    Lithuania’s leading private research and development lab focusing on DARQ
+    (Blockchain and Distributed ledger technologies, Artificial Intelligence,
+    extended reality and quantum computing) technologies. These future
+    technologies are the next big technology catalysts for change, and SUPER HOW
+    mission is to be at the horizon of innovations and the R&D engine that
+    transforms future technologies into practical applications for business and
+    everyday life. 
+description: SUPER HOW is a team that has a passion for developing and
+  delivering enterprise-grade solutions. The Core team echoes SUPER HOWs' motto
+  of ‘Empowered by Innovation’ and knows how to take custom software application
+  ideas from concept to delivery.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -46,11 +50,12 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: SUPER HOW collaborates with the major stakeholders (local
+    universities, institutes and research labs) in the blockchain and artificial
+    intelligence ecosystem and provides key R&D capabilities in the field. SUPER
+    HOW offers internships for students and researchers the opportunity to gain
+    practical knowledge, by participating in the end-to-end lifecycle of
+    Analysis, Research, Design and Implementation of innovative solutions.
 main:
   heading: Great coffee with no compromises
   description: >
